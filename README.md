@@ -1,10 +1,10 @@
-nextauth login 
+## nextauth login 
 ![](https://github.com/Shubhamxshah/pixelgram/blob/main/public/readme/Screenshot%20from%202024-08-06%2011-58-12.png)
-dashboard
+## dashboard
 ![](https://github.com/Shubhamxshah/pixelgram/blob/main/public/readme/Screenshot%20from%202024-08-06%2012-53-57.png)
-profile
+## profile
 ![](https://github.com/Shubhamxshah/pixelgram/blob/main/public/readme/Screenshot%20from%202024-08-06%2012-56-22.png)
-comment and post
+## comment and post
 ![](https://github.com/Shubhamxshah/pixelgram/blob/main/public/readme/Screenshot%20from%202024-08-06%2012-56-48.png)
 
  Next.js 14's Server Actions, "unstable_nostore" API, Prisma, PlanetScale, MySQL, and NextAuth. Covers project setup, database configuration, and user authentication for building responsive web apps.
